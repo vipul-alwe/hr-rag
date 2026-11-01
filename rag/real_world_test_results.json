@@ -1,0 +1,1782 @@
+{
+  "summary": {
+    "total": 136,
+    "ok": 136,
+    "empty": 0,
+    "errors": 0,
+    "neo4j": 59,
+    "llm_rag": 67,
+    "boundary": 10,
+    "average_seconds": 16.332
+  },
+  "results": [
+    {
+      "number": 1,
+      "category": "NEO4J",
+      "question": "Who is Roycin D’Souza?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Roycin D’Souza\n  - Sr. Vice President\n  - Department: Move Over\n  - Email: roycin@oml.in",
+      "elapsed_seconds": 28.127,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 2,
+      "category": "NEO4J",
+      "question": "Who is Manav Parekh?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Manav Parekh\n  - Designation: Exe. Vice President (Creative Director)\n  - Department: Move Over\n  - Email: manav.parekh@oml.in\n  - Role: Serves as the Creative Director leading the creative vision and execution across campaigns, branded content, and storytelling initiatives. Oversees creative strategy, ideation, design direction, and cross-functional collaboration to ensure high-quality creative output aligned with brand and business goals.",
+      "elapsed_seconds": 24.807,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 3,
+      "category": "NEO4J",
+      "question": "Who is Soumen Nath?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- **Name:** Soumen Nath\n- **Designation:** Vice President\n- **Department:** Move Over\n- **Email:** soumen.nath@oml.in",
+      "elapsed_seconds": 12.881,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 4,
+      "category": "NEO4J",
+      "question": "Who is Devarshi Shah?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- **Name:** Devarshi Shah\n- **Designation:** Chief Growth Officer (CGO)\n- **Department:** Management\n- **Email:** devarshi@oml.in\n- **Phone:** 9820423001",
+      "elapsed_seconds": 19.977,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 5,
+      "category": "NEO4J",
+      "question": "Who is Ambarish Sengupta?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- **Name:** Ambarish Sengupta\n- **Designation:** Vice President\n- **Department:** Hypothesis\n- **Email:** ambarish.sengupta@oml.in",
+      "elapsed_seconds": 19.553,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 6,
+      "category": "NEO4J",
+      "question": "Who is Santosh Raut?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Santosh Raut\n  - Designation: Associate Vice President\n  - Department: Finance\n  - Email: santosh@oml.in",
+      "elapsed_seconds": 19.28,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 7,
+      "category": "NEO4J",
+      "question": "Who is Sudhakar Jadhav?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Sudhakar Jadhav\n  - Designation: Chief Financial Officer (CFO)\n  - Department: Management\n  - Email: sudhakar@oml.in",
+      "elapsed_seconds": 16.545,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 8,
+      "category": "NEO4J",
+      "question": "Who is Tusharr Kumar?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Tusharr Kumar\n  - Designation: Chief Executive Officer (CEO)\n  - Department: Management\n  - Email: tusharr@oml.in",
+      "elapsed_seconds": 16.072,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 9,
+      "category": "NEO4J",
+      "question": "Who is Aiswarya Parameshwar?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- **Name:** Aiswarya Parameshwar\n- **Designation:** Associate\n- **Department:** Move Over\n- **Email:** aiswarya.parameshwar@oml.in",
+      "elapsed_seconds": 19.874,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 10,
+      "category": "NEO4J",
+      "question": "Who is Anshu Choudhary?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Anshu Choudhary\n  - Designation: Assistant Manager\n  - Department: Move Over\n  - Email: anshu@oml.in",
+      "elapsed_seconds": 18.378,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 11,
+      "category": "NEO4J",
+      "question": "Who is Gibson Sequeira?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "Gibson Sequeira\n- Designation: Associate Vice President\n- Department: Move Over\n- Email: gibson.sequeira@oml.in",
+      "elapsed_seconds": 15.396,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 12,
+      "category": "NEO4J",
+      "question": "Who is Krishi Shukla?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Krishi Shukla\n  - Designation: Jr. Associate\n  - Department: Move Over\n  - Email: krishi.shukla@oml.in",
+      "elapsed_seconds": 15.188,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 13,
+      "category": "NEO4J",
+      "question": "Who does Roycin D’Souza report to?",
+      "plan": {
+        "intent": "org_manager",
+        "mode": "neo4j"
+      },
+      "answer": "- Roycin D’Souza reports to Devarshi Shah",
+      "elapsed_seconds": 9.196,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 14,
+      "category": "NEO4J",
+      "question": "Who does Manav Parekh report to?",
+      "plan": {
+        "intent": "org_manager",
+        "mode": "neo4j"
+      },
+      "answer": "- Manav Parekh reports to Devarshi Shah",
+      "elapsed_seconds": 8.285,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 15,
+      "category": "NEO4J",
+      "question": "Who does Soumen Nath report to?",
+      "plan": {
+        "intent": "org_manager",
+        "mode": "neo4j"
+      },
+      "answer": "- Soumen Nath reports to Manav Parekh",
+      "elapsed_seconds": 8.443,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 16,
+      "category": "NEO4J",
+      "question": "Who does Devarshi Shah report to?",
+      "plan": {
+        "intent": "org_manager",
+        "mode": "neo4j"
+      },
+      "answer": "- Devarshi Shah reports to:\n  - Tusharr Kumar\n  - Designation: Chief Executive Officer (CEO)\n  - Department: Management",
+      "elapsed_seconds": 10.295,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 17,
+      "category": "NEO4J",
+      "question": "Who does Ambarish Sengupta report to?",
+      "plan": {
+        "intent": "org_manager",
+        "mode": "neo4j"
+      },
+      "answer": "- Ambarish Sengupta reports to Devarshi Shah",
+      "elapsed_seconds": 9.055,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 18,
+      "category": "NEO4J",
+      "question": "Who does Santosh Raut report to?",
+      "plan": {
+        "intent": "org_manager",
+        "mode": "neo4j"
+      },
+      "answer": "- Santosh Raut reports to:\n  - Sudhakar Jadhav\n  - Sudhakar Jadhav's Designation: Chief Financial Officer (CFO)\n  - Sudhakar Jadhav's Department: Management",
+      "elapsed_seconds": 13.211,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 19,
+      "category": "NEO4J",
+      "question": "Who does Sudhakar Jadhav report to?",
+      "plan": {
+        "intent": "org_manager",
+        "mode": "neo4j"
+      },
+      "answer": "- Sudhakar Jadhav reports to:\n  - Tusharr Kumar",
+      "elapsed_seconds": 8.705,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 20,
+      "category": "NEO4J",
+      "question": "Who does Aiswarya Parameshwar report to?",
+      "plan": {
+        "intent": "org_manager",
+        "mode": "neo4j"
+      },
+      "answer": "- Aiswarya Parameshwar reports to Roycin D'Souza",
+      "elapsed_seconds": 9.684,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 21,
+      "category": "NEO4J",
+      "question": "Who does Anshu Choudhary report to?",
+      "plan": {
+        "intent": "org_manager",
+        "mode": "neo4j"
+      },
+      "answer": "- Anshu Choudhary reports to:\n  - Roycin D’Souza\n  - Designation: Sr. Vice President\n  - Department: Move Over",
+      "elapsed_seconds": 12.125,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 22,
+      "category": "NEO4J",
+      "question": "Who reports to Roycin D’Souza?",
+      "plan": {
+        "intent": "org_reports",
+        "mode": "neo4j"
+      },
+      "answer": "- Aiswarya Parameshwar — Associate (Move Over, Client Servicing)\n- Anshu Choudhary — Assistant Manager (Move Over, Client Servicing)\n- Gibson Sequeira — Associate Vice President (Move Over, Client Servicing)\n- Krishi Shukla — Jr. Associate (Move Over, Client Servicing)\n- Loma Sisodia — Sr. Associate (Move Over, Client Servicing)\n- Natasha Kharadi — Associate Vice President (Move Over, Client Servicing)\n- Navvya Bhutani — Jr. Associate (Move Over, Client Servicing)\n- Roshni Shah — Sr. Associate (Move Over, Client Servicing)\n- Sakshi Chugh — Manager (Move Over, Client Servicing)\n- Zainab Arif — Sr. Associate (Move Over, Client Servicing)\n- Zeel Desai — Jr. Associate (Move Over, Client Servicing)",
+      "elapsed_seconds": 33.598,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 23,
+      "category": "NEO4J",
+      "question": "Who reports to Manav Parekh?",
+      "plan": {
+        "intent": "org_reports",
+        "mode": "neo4j"
+      },
+      "answer": "- Aditya Menon\n- Akhya Agarwal\n- Ananya Pandey\n- Ashwin Nair\n- Ashwin Vaidyanathan\n- Ayushi Singh\n- Heemuhn Major\n- Ketki Dhuri\n- Nikita Malik\n- Progyaa Dutta\n- Rajaye Narkar\n- Saundarya Srinivasan\n- Shivani Sachdeva\n- Vibhati Narang\n- Viplaksh Mehta\n- Warren Luis\n- Zeena Khambatta",
+      "elapsed_seconds": 24.054,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 24,
+      "category": "NEO4J",
+      "question": "Who reports to Soumen Nath?",
+      "plan": {
+        "intent": "org_reports",
+        "mode": "neo4j"
+      },
+      "answer": "- Aishwarya Patankar (Assistant Manager, Move Over, Design)\n- Asiya Shaikh (Sr. Associate, Move Over, Design)\n- Deepesh Vaishnav (Sr. Associate, Move Over, Design)\n- Rahool Talukdar (Vice President, Move Over, Design)\n- Tanya Vaghela (Assistant Manager, Move Over, Design)",
+      "elapsed_seconds": 17.747,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 25,
+      "category": "NEO4J",
+      "question": "Who reports to Devarshi Shah?",
+      "plan": {
+        "intent": "org_reports",
+        "mode": "neo4j"
+      },
+      "answer": "- Ambarish Sengupta — Vice President (Hypothesis)\n- Bilal Ansari — Vice President (Media & Analytics)\n- Manav Parekh — Exe. Vice President (Creative Director) (Move Over, Creative)\n- Roycin D’Souza — Sr. Vice President (Move Over, Client Servicing)\n- Ruchira More — Vice President (Media & Analytics)\n- Sagarika Akut — Associate Vice President (OML Studios)\n- Shreyaa Parekh — Agency Marketing Lead (Corporate)\n- Swapna Kammaran Nair — Vice President (Move Over, Client Servicing)\n- Vipul Alwe — Assistant Manager - GenAI Architect (Business Strategy, AI Architect)",
+      "elapsed_seconds": 27.823,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 26,
+      "category": "NEO4J",
+      "question": "Who reports to Ambarish Sengupta?",
+      "plan": {
+        "intent": "org_reports",
+        "mode": "neo4j"
+      },
+      "answer": "- Aasna Bhansali — Manager (Hypothesis)\n- Aneri Thakkar — Sr. Manager (Hypothesis)\n- Hemlata Moolrajani — Sr. Manager (Hypothesis)\n- Vaishnavi Rai — Sr. Manager (Hypothesis)",
+      "elapsed_seconds": 17.774,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 27,
+      "category": "NEO4J",
+      "question": "Who reports to Santosh Raut?",
+      "plan": {
+        "intent": "org_reports",
+        "mode": "neo4j"
+      },
+      "answer": "- Abhijeet Shirdhankar — Jr. Associate (Finance)\n- Anil Patil — Sr. Manager (Finance)\n- Darshana Manjrekar — Sr. Associate (Finance)\n- Girish Tiwari — Assistant Manager (Finance)\n- Ishika Palande — Associate (Finance)\n- Neha Devendra Bagwe — Sr. Manager (Finance)\n- Pinky Darji — Jr. Associate (Finance)\n- Poonam Gawade — Associate (Finance)\n- Shailendra Shenoy — Assistant Manager (Finance)",
+      "elapsed_seconds": 23.646,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 28,
+      "category": "NEO4J",
+      "question": "Who reports to Sudhakar Jadhav?",
+      "plan": {
+        "intent": "org_reports",
+        "mode": "neo4j"
+      },
+      "answer": "- Santosh Raut\n  - Role: Associate Vice President (Finance)",
+      "elapsed_seconds": 9.03,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 29,
+      "category": "NEO4J",
+      "question": "Who reports to Tusharr Kumar?",
+      "plan": {
+        "intent": "org_reports",
+        "mode": "neo4j"
+      },
+      "answer": "- Devarshi Shah (CGO)\n- Pankaj Malani (Exe. Vice President)\n- Preranaa Khatri (CBO)\n- Sudhakar Jadhav (CFO)\n- Vibha Sharma (Business Head)\n- Vieenaa Janaj (Associate Vice President)",
+      "elapsed_seconds": 15.519,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 30,
+      "category": "NEO4J",
+      "question": "Who is on Roycin D’Souza’s team?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Roycin D’Souza is part of the Code of Conduct Committee.\n- This is not specified in the policy regarding his team.",
+      "elapsed_seconds": 18.177,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 31,
+      "category": "NEO4J",
+      "question": "Who is on Manav Parekh’s team?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "This is not specified in the policy.",
+      "elapsed_seconds": 12.957,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 32,
+      "category": "NEO4J",
+      "question": "Who is on Soumen Nath’s team?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "This is not specified in the policy.",
+      "elapsed_seconds": 9.882,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 33,
+      "category": "NEO4J",
+      "question": "Who is on Ambarish Sengupta’s team?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "This is not specified in the policy.",
+      "elapsed_seconds": 11.756,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 34,
+      "category": "NEO4J",
+      "question": "Who works with Roycin D’Souza?",
+      "plan": {
+        "intent": "org_team",
+        "mode": "neo4j"
+      },
+      "answer": "- Roycin D’Souza — Sr. Vice President",
+      "elapsed_seconds": 11.42,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 35,
+      "category": "NEO4J",
+      "question": "Who works with Manav Parekh?",
+      "plan": {
+        "intent": "org_team",
+        "mode": "neo4j"
+      },
+      "answer": "- Aditya Menon — Assistant Manager\n- Akhya Agarwal — Sr. Associate\n- Ananya Pandey — Assistant Manager\n- Ashwin Nair — Sr. Manager\n- Ashwin Vaidyanathan — Sr. Manager\n- Ayushi Singh — Sr. Associate\n- Heemuhn Major — Associate Vice President\n- Ketki Dhuri — Associate\n- Manav Parekh — Exe. Vice President (Creative Director)\n- Nikita Malik — Sr. Manager\n- Progyaa Dutta — Assistant Manager\n- Rajaye Narkar — Assistant Manager\n- Saundarya Srinivasan — Assistant Manager\n- Shivani Sachdeva — Associate\n- Vibhati Narang — Associate\n- Viplaksh Mehta — Sr. Manager\n- Warren Luis — Sr. Manager\n- Zeena Khambatta — Jr. Associate",
+      "elapsed_seconds": 32.604,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 36,
+      "category": "NEO4J",
+      "question": "Who works with Soumen Nath?",
+      "plan": {
+        "intent": "org_team",
+        "mode": "neo4j"
+      },
+      "answer": "- Aishwarya Patankar — Assistant Manager\n- Rahool Talukdar — Vice President\n- Tanya Vaghela — Assistant Manager",
+      "elapsed_seconds": 11.936,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 37,
+      "category": "NEO4J",
+      "question": "Who works with Ambarish Sengupta?",
+      "plan": {
+        "intent": "org_team",
+        "mode": "neo4j"
+      },
+      "answer": "No team members were found for Ambarish Sengupta.",
+      "elapsed_seconds": 11.233,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 38,
+      "category": "NEO4J",
+      "question": "What is Roycin D’Souza’s management chain?",
+      "plan": {
+        "intent": "org_chain",
+        "mode": "neo4j"
+      },
+      "answer": "- Devarshi Shah — Chief Growth Officer (CGO)\n- Tusharr Kumar — Chief Executive Officer (CEO)",
+      "elapsed_seconds": 10.382,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 39,
+      "category": "NEO4J",
+      "question": "What is Manav Parekh’s management chain?",
+      "plan": {
+        "intent": "org_chain",
+        "mode": "neo4j"
+      },
+      "answer": "- Devarshi Shah — Chief Growth Officer (CGO)\n- Tusharr Kumar — Chief Executive Officer (CEO)",
+      "elapsed_seconds": 10.082,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 40,
+      "category": "NEO4J",
+      "question": "What is Soumen Nath’s management chain?",
+      "plan": {
+        "intent": "org_chain",
+        "mode": "neo4j"
+      },
+      "answer": "- Manav Parekh — Exe. Vice President (Creative Director)\n- Devarshi Shah — Chief Growth Officer (CGO)\n- Tusharr Kumar — Chief Executive Officer (CEO)",
+      "elapsed_seconds": 13.625,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 41,
+      "category": "NEO4J",
+      "question": "What is Ambarish Sengupta’s management chain?",
+      "plan": {
+        "intent": "org_chain",
+        "mode": "neo4j"
+      },
+      "answer": "- Devarshi Shah — Chief Growth Officer (CGO)\n- Tusharr Kumar — Chief Executive Officer (CEO)",
+      "elapsed_seconds": 10.729,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 42,
+      "category": "NEO4J",
+      "question": "What is Santosh Raut’s management chain?",
+      "plan": {
+        "intent": "org_chain",
+        "mode": "neo4j"
+      },
+      "answer": "- Sudhakar Jadhav — Chief Financial Officer (CFO)\n- Tusharr Kumar — Chief Executive Officer (CEO)",
+      "elapsed_seconds": 10.85,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 43,
+      "category": "NEO4J",
+      "question": "What is Aiswarya Parameshwar’s management chain?",
+      "plan": {
+        "intent": "org_chain",
+        "mode": "neo4j"
+      },
+      "answer": "- Roycin D’Souza — Sr. Vice President\n- Devarshi Shah — Chief Growth Officer (CGO)\n- Tusharr Kumar — Chief Executive Officer (CEO)",
+      "elapsed_seconds": 12.312,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 44,
+      "category": "NEO4J",
+      "question": "Who is above Roycin D’Souza in the hierarchy?",
+      "plan": {
+        "intent": "org_chain",
+        "mode": "neo4j"
+      },
+      "answer": "- Devarshi Shah (CGO)\n- Tusharr Kumar (CEO)",
+      "elapsed_seconds": 9.662,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 45,
+      "category": "NEO4J",
+      "question": "Who is above Manav Parekh in the hierarchy?",
+      "plan": {
+        "intent": "org_chain",
+        "mode": "neo4j"
+      },
+      "answer": "- Devarshi Shah (CGO)\n- Tusharr Kumar (CEO)",
+      "elapsed_seconds": 9.476,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 46,
+      "category": "NEO4J",
+      "question": "Who is above Ambarish Sengupta in the hierarchy?",
+      "plan": {
+        "intent": "org_chain",
+        "mode": "neo4j"
+      },
+      "answer": "- Devarshi Shah — Chief Growth Officer (CGO)\n- Tusharr Kumar — Chief Executive Officer (CEO)",
+      "elapsed_seconds": 11.076,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 47,
+      "category": "NEO4J",
+      "question": "Who is above Santosh Raut in the hierarchy?",
+      "plan": {
+        "intent": "org_chain",
+        "mode": "neo4j"
+      },
+      "answer": "- Sudhakar Jadhav — Chief Financial Officer (CFO)\n- Tusharr Kumar — Chief Executive Officer (CEO)",
+      "elapsed_seconds": 11.019,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 48,
+      "category": "NEO4J",
+      "question": "Who is under Roycin D’Souza?",
+      "plan": {
+        "intent": "org_reports",
+        "mode": "neo4j"
+      },
+      "answer": "- Aiswarya Parameshwar — Associate (Move Over, Client Servicing)\n- Anshu Choudhary — Assistant Manager (Move Over, Client Servicing)\n- Gibson Sequeira — Associate Vice President (Move Over, Client Servicing)\n- Krishi Shukla — Jr. Associate (Move Over, Client Servicing)\n- Loma Sisodia — Sr. Associate (Move Over, Client Servicing)\n- Natasha Kharadi — Associate Vice President (Move Over, Client Servicing)\n- Navvya Bhutani — Jr. Associate (Move Over, Client Servicing)\n- Roshni Shah — Sr. Associate (Move Over, Client Servicing)\n- Sakshi Chugh — Manager (Move Over, Client Servicing)\n- Zainab Arif — Sr. Associate (Move Over, Client Servicing)\n- Zeel Desai — Jr. Associate (Move Over, Client Servicing)",
+      "elapsed_seconds": 33.454,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 49,
+      "category": "NEO4J",
+      "question": "Who is under Manav Parekh?",
+      "plan": {
+        "intent": "org_reports",
+        "mode": "neo4j"
+      },
+      "answer": "- Aditya Menon — Assistant Manager (Move Over, Creative)\n- Akhya Agarwal — Sr. Associate (Move Over, Creative)\n- Ananya Pandey — Assistant Manager (Move Over, Creative)\n- Ashwin Nair — Sr. Manager (Move Over, Creative)\n- Ashwin Vaidyanathan — Sr. Manager (Move Over, Creative)\n- Ayushi Singh — Sr. Associate (Move Over, Creative)\n- Heemuhn Major — Associate Vice President (Move Over, Creative)\n- Ketki Dhuri — Associate (Move Over, Creative)\n- Nikita Malik — Sr. Manager (Move Over, Creative)\n- Progyaa Dutta — Assistant Manager (Move Over, Creative)\n- Rajaye Narkar — Assistant Manager (Move Over, Creative)\n- Saundarya Srinivasan — Assistant Manager (Move Over, Creative)\n- Shivani Sachdeva — Associate (Move Over, Creative)\n- Vibhati Narang — Associate (Move Over, Creative)\n- Viplaksh Mehta — Sr. Manager (Move Over, Creative)\n- Warren Luis — Sr. Manager (Move Over, Creative)\n- Zeena Khambatta — Jr. Associate (Move Over, Creative)",
+      "elapsed_seconds": 42.139,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 50,
+      "category": "NEO4J",
+      "question": "Who is under Ambarish Sengupta?",
+      "plan": {
+        "intent": "org_reports",
+        "mode": "neo4j"
+      },
+      "answer": "- Aasna Bhansali — Manager (Hypothesis)\n- Aneri Thakkar — Sr. Manager (Hypothesis)\n- Arshi Khan — Sr. Associate (Hypothesis)\n- Ayaan Hemani — Jr. Associate (Hypothesis)\n- Chirag Chaudhary — Jr. Associate (Hypothesis)\n- Devina Wahi — Assistant Manager (Hypothesis)\n- Hemlata Moolrajani — Sr. Manager (Hypothesis)\n- Joshhika Kaul — Associate (Hypothesis)\n- Krish Pandya — Jr. Associate (Hypothesis)\n- Krishpreet Kaur Lal — Jr. Associate (Hypothesis)\n- Masumi Chavan — Associate (Hypothesis)\n- Mehevish Merchant — Associate (Hypothesis)\n- Mehul Samant — Sr. Associate (Hypothesis)\n- Nisha Shetty — Jr. Associate (Hypothesis)\n- Pashmi Sheth — Jr. Associate (Hypothism)\n- Sanchia Eustace — Associate (Hypothesis)\n- Sanskriti Sharma — Jr. Associate (Hypothesis)\n- Seerat Bhalla — Associate (Hypothesis)\n- Vaishnavi Rai — Sr. Manager (Hypothesis)",
+      "elapsed_seconds": 43.884,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 51,
+      "category": "NEO4J",
+      "question": "Who is under Santosh Raut?",
+      "plan": {
+        "intent": "org_reports",
+        "mode": "neo4j"
+      },
+      "answer": "- Abhijeet Shirdhankar — Jr. Associate (Finance)\n- Anil Patil — Sr. Manager (Finance)\n- Darshana Manjrekar — Sr. Associate (Finance)\n- Girish Tiwari — Assistant Manager (Finance)\n- Ishika Palande — Associate (Finance)\n- Neha Devendra Bagwe — Sr. Manager (Finance)\n- Pinky Darji — Jr. Associate (Finance)\n- Poonam Gawade — Associate (Finance)\n- Shailendra Shenoy — Assistant Manager (Finance)",
+      "elapsed_seconds": 23.732,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 52,
+      "category": "NEO4J",
+      "question": "Show everyone under Devarshi Shah.",
+      "plan": {
+        "intent": "org_subtree",
+        "mode": "neo4j"
+      },
+      "answer": "- **Level 1:**\n  - Ambarish Sengupta — Vice President\n  - Bilal Ansari — Vice President\n  - Manav Parekh — Exe. Vice President (Creative Director)\n  - Roycin D’Souza — Sr. Vice President\n  - Ruchira More — Vice President\n  - Sagarika Akut — Associate Vice President\n  - Shreyaa Parekh — Agency Marketing Lead\n  - Swapna Kammaran Nair — Vice President\n  - Vipul Alwe — Assistant Manager - GenAI Architect\n\n- **Level 2:**\n  - Aasna Bhansali — Manager\n  - Aditya Menon — Assistant Manager\n  - Aiswarya Parameshwar — Associate\n  - Ajit Sreerangaraj Prahlad — Associate\n  - Akhya Agarwal — Sr. Associate\n  - Akshat Bhatia — Sr. Associate\n  - Akshay Nagarkar — Assistant Manager\n  - Ananya Pandey — Assistant Manager\n  - Aneri Thakkar — Sr. Manager\n  - Anokhi Choksey — Sr. Associate\n  - Anshu Choudhary — Assistant Manager\n  - Anshuka Anand — Associate\n  - Anshuman Bhadauria — Sr. Manager\n  - Arshi Khan — Sr. Associate",
+      "elapsed_seconds": 59.767,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 53,
+      "category": "NEO4J",
+      "question": "Show everyone under Tusharr Kumar.",
+      "plan": {
+        "intent": "org_subtree",
+        "mode": "neo4j"
+      },
+      "answer": "- **Level 1:**\n  - Devarshi Shah — Chief Growth Officer (CGO)\n  - Pankaj Malani — Exe. Vice President\n  - Preranaa Khatri — Chief Business Officer (CBO)\n  - Sudhakar Jadhav — Chief Financial Officer (CFO)\n  - Vibha Sharma — Business Head\n  - Vieenaa Janaj — Associate Vice President\n\n- **Level 2:**\n  - Ambarish Sengupta — Vice President\n  - Anirudh Voleti — Vice President\n  - Anisha Kotian — Associate Vice President\n  - Asavari Waichal — Manager\n  - Ashwadhy Chakamatil — Sr. Manager\n  - Bilal Ansari — Vice President\n  - Devangi Satam — Jr. Associate\n  - Kanak Jaitwani — Sr. Manager\n  - Manav Parekh — Exe. Vice President (Creative Director)\n  - Medha Sharma — Manager\n  - Mishka Sawant — Jr. Associate\n  - Nishtha Keswani — Assistant Manager\n  - Rhea Pillai — Sr. Associate\n  - Roycin D’Souza — Sr. Vice President\n  - Ruchira More — Vice President\n  - Sagarika Akut — Associate Vice President\n  - Santosh Raut — Associate Vice President\n  - Shivankur Sharma —",
+      "elapsed_seconds": 73.623,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 54,
+      "category": "NEO4J",
+      "question": "Who are the direct reports of Roycin D’Souza?",
+      "plan": {
+        "intent": "org_reports",
+        "mode": "neo4j"
+      },
+      "answer": "- Aiswarya Parameshwar — Associate (Move Over, Client Servicing)\n- Anshu Choudhary — Assistant Manager (Move Over, Client Servicing)\n- Gibson Sequeira — Associate Vice President (Move Over, Client Servicing)\n- Krishi Shukla — Jr. Associate (Move Over, Client Servicing)\n- Loma Sisodia — Sr. Associate (Move Over, Client Servinging)\n- Natasha Kharadi — Associate Vice President (Move Over, Client Servicing)\n- Navvya Bhutani — Jr. Associate (Move Over, Client Servicing)\n- Roshni Shah — Sr. Associate (Move Over, Client Servicing)\n- Sakshi Chugh — Manager (Move Over, Client Servicing)\n- Zainab Arif — Sr. Associate (Move Over, Client Servicing)\n- Zeel Desai — Jr. Associate (Move Over, Client Servicing)",
+      "elapsed_seconds": 38.042,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 55,
+      "category": "NEO4J",
+      "question": "Who are the direct reports of Manav Parekh?",
+      "plan": {
+        "intent": "org_reports",
+        "mode": "neo4j"
+      },
+      "answer": "- Aditya Menon — Assistant Manager (Move Over, Creative)\n- Akhya Agarwal — Sr. Associate (Move Over, Creative)\n- Ananya Pandey — Assistant Manager (Move Over, Creative)\n- Ashwin Nair — Sr. Manager (Move Over, Creative)\n- Ashwin Vaidyanathan — Sr. Manager (Move Over, Creative)\n- Ayushi Singh — Sr. Associate (Move Over, Creative)\n- Heemuhn Major — Associate Vice President (Move Over, Creative)\n- Ketki Dhuri — Associate (Move Over, Creative)\n- Nikita Malik — Sr. Manager (Move Over, Creative)\n- Progyaa Dutta — Assistant Manager (Move Over, Creative)\n- Rajaye Narkar — Assistant Manager (Move Over, Creative)\n- Saundarya Srinivasan — Assistant Manager (Move Over, Creative)\n- Shivani Sachdeva — Associate (Move Over, Creative)\n- Vibhati Narang — Associate (Move Over, Creative)\n- Viplaksh Mehta — Sr. Manager (Move Over, Creative)\n- Warren Luis — Sr. Manager (Move Over, Creative)\n- Zeena Khambatta — Jr. Associate (Move Over, Creative)",
+      "elapsed_seconds": 43.272,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 56,
+      "category": "NEO4J",
+      "question": "Who are the direct reports of Soumen Nath?",
+      "plan": {
+        "intent": "org_reports",
+        "mode": "neo4j"
+      },
+      "answer": "- Aishwarya Patankar — Assistant Manager (Move Over, Design)\n- Asiya Shaikh — Sr. Associate (Move Over, Design)\n- Deepesh Vaishnav — Sr. Associate (Move Over, Design)\n- Rahool Talukdar — Vice President (Move Over, Design)\n- Tanya Vaghela — Assistant Manager (Move Over, Design)",
+      "elapsed_seconds": 17.532,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 57,
+      "category": "NEO4J",
+      "question": "Who are the direct reports of Santosh Raut?",
+      "plan": {
+        "intent": "org_reports",
+        "mode": "neo4j"
+      },
+      "answer": "- Abhijeet Shirdhankar — Jr. Associate (Finance)\n- Anil Patil — Sr. Manager (Finance)\n- Darshana Manjrekar — Sr. Associate (Finance)\n- Girish Tiwari — Assistant Manager (Finance)\n- Ishika Palande — Associate (Finance)\n- Neha Devendra Bagwe — Sr. Manager (Finance)\n- Pinky Darji — Jr. Associate (Finance)\n- Poonam Gawade — Associate (Finance)\n- Shailendra Shenoy — Assistant Manager (Finance)",
+      "elapsed_seconds": 23.683,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 58,
+      "category": "NEO4J",
+      "question": "Who are the direct reports of Ambarish Sengupta?",
+      "plan": {
+        "intent": "org_reports",
+        "mode": "neo4j"
+      },
+      "answer": "- Aasna Bhansali — Manager (Hypothesis)\n- Aneri Thakkar — Sr. Manager (Hypothesis)\n- Arshi Khan — Sr. Associate (Hypothesis)\n- Ayaan Hemani — Jr. Associate (Hypothesis)\n- Chirag Chaudhary — Jr. Associate (Hypothesis)\n- Devina Wahi — Assistant Manager (Hypothesis)\n- Hemlata Moolrajani — Sr. Manager (Hypothesis)\n- Joshhika Kaul — Associate (Hypothesis)\n- Krish Pandya — Jr. Associate (Hypothesis)\n- Krishpreet Kaur Lal — Jr. Associate (Hypothesis)\n- Masumi Chavan — Associate (Hypothesis)\n- Mehevish Merchant — Associate (Hypothesis)\n- Mehul Samant — Sr. Associate (Hypothesis)\n- Nisha Shetty — Jr. Associate (Hypothesis)\n- Pashmi Sheth — Jr. Associate (Hypothesis)\n- Sanchia Eustace — Associate (Hypothesis)\n- Sanskriti Sharma — Jr. Associate (Hypothesis)\n- Seerat Bhalla — Associate (Hypothesis)\n- Vaishnavi Rai — Sr. Manager (Hypothesis)",
+      "elapsed_seconds": 43.749,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 59,
+      "category": "NEO4J",
+      "question": "Who is the manager of Roycin D’Souza?",
+      "plan": {
+        "intent": "org_manager",
+        "mode": "neo4j"
+      },
+      "answer": "- **Manager:** Devarshi Shah\n- **Designation:** Chief Growth Officer (CGO)\n- **Department:** Management",
+      "elapsed_seconds": 10.703,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 60,
+      "category": "LLM",
+      "question": "How many casual leaves do employees get per year?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "Employees get 22 casual leaves per year.",
+      "elapsed_seconds": 11.888,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 61,
+      "category": "LLM",
+      "question": "Can unused annual leave be carried forward?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- No, unused annual leave cannot be carried forward to the next year.\n- This is not specified in the policy.",
+      "elapsed_seconds": 14.036,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 62,
+      "category": "LLM",
+      "question": "Can employees encash unused leave?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- This is not specified in the policy.",
+      "elapsed_seconds": 10.909,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 63,
+      "category": "LLM",
+      "question": "Do I need manager approval before taking leave?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Yes, manager approval is required before taking leave, except in emergencies.\n- This is specified in the policy: \"Employees must obtain prior approval from their manager before availing leave, except in emergencies.\"",
+      "elapsed_seconds": 14.54,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 64,
+      "category": "LLM",
+      "question": "How do I apply for leave?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Employees must apply for leave through the official system.\n- Prior approval from the manager is required before availing leave, except in emergencies.\n- Only the applied leave days will be counted. Non-working days in between will remain unaffected.\n- Weekends and holidays in between will not be counted as leave.\n- If an employee takes leave on Friday and Monday, Saturday and Sunday will not be counted as leave. Only Friday and Monday will be counted.",
+      "elapsed_seconds": 20.439,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 65,
+      "category": "LLM",
+      "question": "Is there a sandwich leave policy?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- There is NO sandwich leave policy at OML.\n- This is not specified in the policy.",
+      "elapsed_seconds": 11.291,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 66,
+      "category": "LLM",
+      "question": "What exactly is sandwich leave?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- \"Sandwich leave\" is not a recognized leave type at OML.\n- This term is not defined or mentioned in the provided context.\n- This is not specified in the policy.",
+      "elapsed_seconds": 14.422,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 67,
+      "category": "LLM",
+      "question": "Are weekends counted as leave under the sandwich rule?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Weekends are NOT counted as leave under the sandwich rule.\n- Only the actual leave days applied by the employee are counted.\n- Weekends and holidays in between applied leave days will NOT be counted as leave.",
+      "elapsed_seconds": 13.876,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 68,
+      "category": "LLM",
+      "question": "Are holidays between leave days counted as leave?",
+      "plan": {
+        "intent": "holiday",
+        "mode": "direct"
+      },
+      "answer": "There are 35 holidays.",
+      "elapsed_seconds": 7.317,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 69,
+      "category": "LLM",
+      "question": "What types of leave are available?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Casual leave\n- Sick leave\n- Celebration leave\n- Extended leave\n- Maternity leave\n- Parental leave\n- Adoption leave\n- Bereavement leave",
+      "elapsed_seconds": 13.849,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 70,
+      "category": "LLM",
+      "question": "How long is maternity leave?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Maternity leave is 26 weeks.",
+      "elapsed_seconds": 10.418,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 71,
+      "category": "LLM",
+      "question": "Who is eligible for parental leave?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "All employees are eligible for parental leave.",
+      "elapsed_seconds": 11.582,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 72,
+      "category": "LLM",
+      "question": "Does the parental policy apply to all genders?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Yes, the parental leave policy applies to all genders.",
+      "elapsed_seconds": 9.397,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 73,
+      "category": "LLM",
+      "question": "Does the parental policy cover adoption?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Yes, adoption leave is supported under the Parental Policy.",
+      "elapsed_seconds": 10.866,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 74,
+      "category": "LLM",
+      "question": "Does the parental policy cover surrogacy?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Yes, the parental leave policy covers surrogacy.",
+      "elapsed_seconds": 9.132,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 75,
+      "category": "LLM",
+      "question": "Is flexible work available under the parental policy?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Flexible work arrangements are mentioned as an additional benefit, separate from the Parental Policy.\n- This is not specified in the Parental Policy itself.",
+      "elapsed_seconds": 11.418,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 76,
+      "category": "LLM",
+      "question": "Is childcare reimbursement available?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Childcare reimbursement is available.\n- This is specified in the Additional Context provided.",
+      "elapsed_seconds": 11.506,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 77,
+      "category": "LLM",
+      "question": "How long do I have to file a POSH complaint?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Complaints must be filed within three months of the incident.\n- Extensions are possible under valid circumstances.",
+      "elapsed_seconds": 12.985,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 78,
+      "category": "LLM",
+      "question": "Can the POSH complaint deadline be extended?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- This is not specified in the policy.",
+      "elapsed_seconds": 9.16,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 79,
+      "category": "LLM",
+      "question": "How long does a POSH investigation take?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Investigations are completed within 90 days.",
+      "elapsed_seconds": 9.04,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 80,
+      "category": "LLM",
+      "question": "How quickly must management act after a POSH investigation?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "Management must act within 10 days after receiving the recommendations from a POSH investigation.",
+      "elapsed_seconds": 9.569,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 81,
+      "category": "LLM",
+      "question": "What counts as sexual harassment under the POSH policy?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Physical contact of a sexual nature\n- Sexual advances or propositions\n- Requests for sexual favors\n- Sexually colored remarks or jokes\n- Sharing inappropriate content (e.g., images, videos, messages)\n- Conduct that creates a hostile or uncomfortable work environment\n- Quid pro quo situations where employment benefits are linked to sexual favors\n- Intimidating or offensive work environment created due to sexual behavior",
+      "elapsed_seconds": 19.148,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 82,
+      "category": "LLM",
+      "question": "Who is on the POSH committee?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Pranali Shah (Chairperson) at pranali@oml.in (9082228918)\n- Anisha Kotian at anisha.kotian@oml.in (9833952396)\n- Natasha Kharadi at natasha.k@oml.in (9930436316)\n- Devarshi Shah at devarshi@oml.in (9820423001)\n- Sahana Manjesh (External Member) at sahanamanjesh@gmail.com (9910286564)",
+      "elapsed_seconds": 29.907,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 83,
+      "category": "LLM",
+      "question": "Who can I contact for a POSH complaint?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Pranali Shah (Chairperson) at pranali@oml.in (9082228918)\n- Anisha Kotian at anisha.kotian@oml.in (9833952396)\n- Natasha Kharadi at natasha.k@oml.in (9930436316)\n- Devarshi Shah at devarshi@oml.in (9820423001)\n- Sahana Manjesh (External Member) at sahanamanjesh@gmail.com (9910286564)",
+      "elapsed_seconds": 27.061,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 84,
+      "category": "LLM",
+      "question": "Is confidentiality maintained during a POSH complaint?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Confidentiality is maintained during a PoSH complaint.\n- Retaliation is prohibited.",
+      "elapsed_seconds": 12.196,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 85,
+      "category": "LLM",
+      "question": "Does the POSH policy protect employees from retaliation?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- The POSH policy explicitly states: \"Retaliation is prohibited.\"\n- Employees are protected from retaliation under this policy.",
+      "elapsed_seconds": 11.389,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 86,
+      "category": "LLM",
+      "question": "What happens after a POSH complaint is filed?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Complaints are investigated within 90 days.\n- Recommendations are provided to management after the investigation.\n- Management must act on the recommendations within 10 days.\n- Complaints must be filed within three months of the incident, with extensions possible under valid circumstances.",
+      "elapsed_seconds": 17.407,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 87,
+      "category": "LLM",
+      "question": "What should I do if I experience verbal abuse at work?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Follow the Code of Conduct grievance process\n- Raise a complaint immediately\n- The Code of Conduct Committee will review, investigate, and resolve the complaint",
+      "elapsed_seconds": 15.06,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 88,
+      "category": "LLM",
+      "question": "How do I report racial abuse?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Report racial abuse using the Code of Conduct grievance process.\n- Include complete details such as description of the incident, involved parties, dates, and supporting evidence.\n- Submit the complaint within 10 to 14 days of the incident.\n- The Code of Conduct Committee will review, investigate, and resolve the complaint.\n- Strict confidentiality is maintained during the process.\n- Retaliation against complainants is prohibited.",
+      "elapsed_seconds": 20.33,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 89,
+      "category": "LLM",
+      "question": "What should I do if someone threatens me at work?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Follow the Code of Conduct grievance process\n- Report the threat immediately\n- The Code of Conduct Committee will review, investigate, and resolve the complaint\n- The company enforces a strict no-retaliation policy",
+      "elapsed_seconds": 15.112,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 90,
+      "category": "LLM",
+      "question": "Where can I report workplace intimidation?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Reporting Manager\n- People Team\n- Code of Conduct Committee at coc@oml.in",
+      "elapsed_seconds": 10.988,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 91,
+      "category": "LLM",
+      "question": "Can I report non-sexual harassment under the Code of Conduct?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "This is not specified in the policy.",
+      "elapsed_seconds": 11.819,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 92,
+      "category": "LLM",
+      "question": "What are the reporting channels for Code of Conduct complaints?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- **Internal Committee**: This is the designated channel for reporting Code of Conduct complaints at OML.\n- **Confidentiality**: The process maintains strict confidentiality.\n- **Retaliation Prohibited**: Retaliation against complainants or participants is prohibited and may result in disciplinary action.\n- **Timeframe**: Complaints must generally be submitted within 10 to 14 days of the incident.\n- **Details Required**: Complaints should include complete details such as description of the incident, involved parties, dates, and supporting evidence.\n- **Anonymous Complaints**: Anonymous complaints are not accepted.",
+      "elapsed_seconds": 24.537,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 93,
+      "category": "LLM",
+      "question": "What is the Code of Conduct committee?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- **Responsibilities:**\n  - Reviews, investigates, and resolves complaints related to workplace conduct and ethical violations.\n- **Applies to:**\n  - All employees, including full-time employees, part-time employees, consultants, freelancers, contractual staff, and extended workforce associated with the organization.\n- **Confidentiality:**\n  - Maintains strict confidentiality during the process.\n- **Retaliation:**\n  - Prohibits retaliation against complainants or participants, which may result in disciplinary action.",
+      "elapsed_seconds": 21.548,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 94,
+      "category": "LLM",
+      "question": "Who are the Code of Conduct committee members?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Roycin D’Souza (roycin@oml.in, 9967007666)\n- Smita Gupta (smita.gupta@oml.in, 9930945170)\n- Pankaj Malani (pankaj.malani@oml.in, 9004510715)\n- Stuti Duggal (stuti.duggal@oml.in, 9820383316)",
+      "elapsed_seconds": 25.534,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 95,
+      "category": "LLM",
+      "question": "What is the Code of Conduct complaint timeline?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Complaints must be submitted within:\n  - 10 to 14 days of the incident for general complaints.\n  - Immediately for urgent cases such as threats or feeling unsafe at work.\n- For non-urgent cases, complaints must be filed within three months of the incident, with possible extensions under valid circumstances.\n- The redressal process aims to respond within one month, but timelines may vary depending on case complexity.",
+      "elapsed_seconds": 21.227,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 96,
+      "category": "LLM",
+      "question": "Are anonymous Code of Conduct complaints accepted?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Anonymous complaints are not accepted.",
+      "elapsed_seconds": 11.148,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 97,
+      "category": "LLM",
+      "question": "Are business trips required to be pre-approved?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Yes, business trips must be pre-approved and aligned with business needs.\n- Employees must submit travel requests in advance and obtain necessary approvals.",
+      "elapsed_seconds": 11.843,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 98,
+      "category": "LLM",
+      "question": "Are travel expenses reimbursed?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Yes, travel expenses are reimbursable upon submission of valid receipts and documentation.\n- This includes visa, insurance, and per diem provisions.\n- Expenses must adhere to policy limits and expense reports must be submitted within specified timelines.",
+      "elapsed_seconds": 15.703,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 99,
+      "category": "LLM",
+      "question": "Do I need receipts for travel reimbursement?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Yes, receipts are required for travel reimbursement.\n- \"Expenses incurred during travel are reimbursable upon submission of valid receipts and documentation.\"",
+      "elapsed_seconds": 12.203,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 100,
+      "category": "LLM",
+      "question": "Are personal expenses reimbursed during business travel?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Personal expenses are not reimbursed during business travel.",
+      "elapsed_seconds": 10.778,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 101,
+      "category": "LLM",
+      "question": "How far in advance should I request business travel?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Business travel must be pre-approved and aligned with business needs.\n- Travel requests should be submitted in advance to obtain necessary approvals.",
+      "elapsed_seconds": 13.073,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 102,
+      "category": "LLM",
+      "question": "What is the standard class of travel?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Standard class of travel is economy class.",
+      "elapsed_seconds": 9.395,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 103,
+      "category": "LLM",
+      "question": "Are international travel expenses covered?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- International travel expenses are covered, including:\n  - Visa costs\n  - Insurance\n  - Per diem provisions",
+      "elapsed_seconds": 11.166,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 104,
+      "category": "LLM",
+      "question": "Are visa and insurance costs covered for international travel?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Visa costs are covered for international travel.\n- Insurance costs are covered for international travel.",
+      "elapsed_seconds": 11.29,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 105,
+      "category": "LLM",
+      "question": "Can I use any hotel or transport vendor for business travel?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Travel bookings must use approved vendors.\n- This is not specified in the policy.",
+      "elapsed_seconds": 10.365,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 106,
+      "category": "LLM",
+      "question": "Are cash advances available for business travel?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Cash advances may be granted in exceptional cases for business travel.\n- This is not specified in the policy for non-exceptional cases.",
+      "elapsed_seconds": 12.518,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 107,
+      "category": "LLM",
+      "question": "What happens during employee onboarding?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Documentation\n- Induction sessions\n- Structured support during initial employment",
+      "elapsed_seconds": 12.334,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 108,
+      "category": "LLM",
+      "question": "What documentation is required during onboarding?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Documentation\n- Induction sessions\n- Structured support during initial employment",
+      "elapsed_seconds": 9.972,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 109,
+      "category": "LLM",
+      "question": "Is induction part of onboarding?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Yes, induction is part of the onboarding process at OML.",
+      "elapsed_seconds": 11.676,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 110,
+      "category": "LLM",
+      "question": "Are there 30-day onboarding check-ins?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Yes, regular check-ins are conducted at 30, 60, and 90 days.",
+      "elapsed_seconds": 12.796,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 111,
+      "category": "LLM",
+      "question": "Are there 60-day onboarding check-ins?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- No, there are no 60-day onboarding check-ins mentioned in the policy.",
+      "elapsed_seconds": 12.099,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 112,
+      "category": "LLM",
+      "question": "Are there 90-day onboarding check-ins?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Yes, there are check-ins at 30, 60, and 90 days during the onboarding process.",
+      "elapsed_seconds": 11.414,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 113,
+      "category": "LLM",
+      "question": "Is POSH training mandatory for new employees?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Yes, POSH training is mandatory for new employees, as stated in the context: \"Employees are introduced to teams, systems, and policies and undergo mandatory training including POSH training.\"",
+      "elapsed_seconds": 15.999,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 114,
+      "category": "LLM",
+      "question": "What happens if company IT equipment is damaged?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Employees must report damage, loss, or theft immediately.\n- The company may monitor systems for compliance and security.\n- The Code of Conduct Committee reviews, investigates, and resolves complaints related to workplace conduct and ethical violations.",
+      "elapsed_seconds": 15.011,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 115,
+      "category": "LLM",
+      "question": "What should I do if a company device is stolen?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Report the theft immediately to your direct supervisor.\n- Contact the IT department at [it@oml.com](mailto:it@oml.com) to inform them about the incident and request assistance.\n- If the device contains sensitive company information, follow the incident response procedure outlined in the Data Protection Policy.\n- This is not specified in the policy: Whether to file a police report or not.",
+      "elapsed_seconds": 20.622,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 116,
+      "category": "LLM",
+      "question": "Can employees install software on company devices?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "This is not specified in the policy.",
+      "elapsed_seconds": 9.638,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 117,
+      "category": "LLM",
+      "question": "Can employees modify company IT systems?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- This is not specified in the policy.",
+      "elapsed_seconds": 10.188,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 118,
+      "category": "LLM",
+      "question": "Are company IT systems monitored?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Yes, the company may monitor systems for compliance and security purposes.",
+      "elapsed_seconds": 11.352,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 119,
+      "category": "LLM",
+      "question": "What happens to company assets when an employee leaves?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- All assets must be returned upon exit.\n- The company may monitor systems for compliance and security.",
+      "elapsed_seconds": 11.862,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 120,
+      "category": "LLM",
+      "question": "What are OML's core workplace conduct expectations?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- **Be Honest**: Truthful in all interactions.\n- **Be Brave**: Stand up for what's right, even when it's difficult.\n- **Be Excellent**: Strive for high standards in work and behavior.\n- **Be Nimble**: Adaptable and responsive to change.\n- **Be Profitable**: Focus on creating value and efficiency.\n- **Be On The Other Side**: Consider the perspective of others and act with empathy.",
+      "elapsed_seconds": 21.863,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 121,
+      "category": "LLM",
+      "question": "What does the Code of Conduct say about confidentiality?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Maintain strict confidentiality during the process.\n- Protect all confidential information, including company data and intellectual property.\n- Prohibit unauthorized sharing, misuse, or deletion of company information.",
+      "elapsed_seconds": 14.001,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 122,
+      "category": "LLM",
+      "question": "Are gifts or bribes allowed?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Gifts or bribes exceeding INR 5000 annually are prohibited.\n- Bribery and unethical conduct are strictly forbidden.",
+      "elapsed_seconds": 13.936,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 123,
+      "category": "LLM",
+      "question": "What does the policy say about conflicts of interest?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Any personal relationships that could create conflicts of interest must be disclosed to the People Team.\n- Relationships involving direct reporting lines or vendor relationships are considered conflicts and must be addressed.",
+      "elapsed_seconds": 14.906,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 124,
+      "category": "LLM",
+      "question": "Is retaliation against someone who raises a complaint prohibited?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Yes, retaliation against someone who raises a complaint is prohibited.\n- This is explicitly stated in the policy: \"Retaliation against complainants or participants is prohibited.\"",
+      "elapsed_seconds": 14.723,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 125,
+      "category": "LLM",
+      "question": "What happens after a Code of Conduct complaint is submitted?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Complaint submission\n- Initial review by the Code of Conduct Committee\n- Investigation if necessary\n- Documentation of the process\n- Aim to respond within one month, though timelines may vary depending on case complexity",
+      "elapsed_seconds": 16.831,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 126,
+      "category": "LLM",
+      "question": "What matters are excluded from the Code of Conduct grievance process?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "- Performance appraisal\n- Promotions\n- Termination decisions\n- Sexual harassment",
+      "elapsed_seconds": 13.195,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 127,
+      "category": "LLM-BOUNDARY",
+      "question": "What is the employee annual bonus percentage?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "This is not specified in the policy.",
+      "elapsed_seconds": 11.579,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 128,
+      "category": "LLM-BOUNDARY",
+      "question": "What is the company's medical insurance premium?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "This is not specified in the policy.",
+      "elapsed_seconds": 11.042,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 129,
+      "category": "LLM-BOUNDARY",
+      "question": "What is the work from home salary allowance?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "This is not specified in the policy.",
+      "elapsed_seconds": 11.403,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 130,
+      "category": "LLM-BOUNDARY",
+      "question": "What is the promotion policy at OML?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "This is not specified in the policy.",
+      "elapsed_seconds": 11.778,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 131,
+      "category": "LLM-BOUNDARY",
+      "question": "How many sick leaves do employees get?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "This is not specified in the policy.",
+      "elapsed_seconds": 9.4,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 132,
+      "category": "LLM-BOUNDARY",
+      "question": "Does OML provide a performance bonus?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "This is not specified in the policy.",
+      "elapsed_seconds": 12.995,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 133,
+      "category": "LLM-BOUNDARY",
+      "question": "What is the notice period for employees?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "This is not specified in the policy.",
+      "elapsed_seconds": 13.03,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 134,
+      "category": "LLM-BOUNDARY",
+      "question": "What is the employee PF contribution percentage?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "This is not specified in the policy.",
+      "elapsed_seconds": 12.772,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 135,
+      "category": "LLM-BOUNDARY",
+      "question": "Does OML have a stock option policy?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "This is not specified in the policy.",
+      "elapsed_seconds": 13.958,
+      "status": "OK",
+      "error": null
+    },
+    {
+      "number": 136,
+      "category": "LLM-BOUNDARY",
+      "question": "What is the salary increment percentage this year?",
+      "plan": {
+        "intent": "general",
+        "mode": "llm"
+      },
+      "answer": "This is not specified in the policy.",
+      "elapsed_seconds": 11.41,
+      "status": "OK",
+      "error": null
+    }
+  ]
+}

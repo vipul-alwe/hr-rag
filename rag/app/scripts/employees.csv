@@ -1,0 +1,167 @@
+﻿id,client_id,employee_name,designation,department,email,employee_context,phone_number,team,reports_to
+a9574d01-c293-4afe-ba79-cfcb85d96469,11111111-1111-1111-1111-111111111111,Manav Parekh,Exe. Vice President (Creative Director),Move Over,manav.parekh@oml.in,"Serves as the Creative Director leading the creative vision and execution across campaigns, branded content, and storytelling initiatives. Oversees creative strategy, ideation, design direction, and cross-functional collaboration to ensure high-quality creative output aligned with brand and business goals.",NULL,Creative,Devarshi Shah
+13b4b5dc-faf1-4bfc-8db2-356771313e6c,11111111-1111-1111-1111-111111111111,Vipul Alwe,Assistant Manager - GenAI Architect,Business Strategy,vipul.alwe@oml.in,"Works on AI systems, automation infrastructure, RAG systems, internal tooling, and GenAI architecture initiatives across the organisation.",917021873388,AI Architect,Devarshi Shah
+707de129-6cdc-4378-9d08-e9e4153a64b0,11111111-1111-1111-1111-111111111111,Jagan Waghela,Office Staff,Administration,NULL,NULL,NULL,,Sandesh Pawar
+4527709b-c433-4021-8db6-9c5c25fac03d,11111111-1111-1111-1111-111111111111,Ganesh Ghogale,Office Staff,Administration,NULL,NULL,NULL,,Sandesh Pawar
+479199d2-bc57-4779-ad06-c9d8156f1eab,11111111-1111-1111-1111-111111111111,Tusharr Kumar,Chief Executive Officer (CEO),Management,tusharr@oml.in,"Tusharr Kumar is the Chief Executive Officer (CEO) of OML and leads the overall vision, business strategy, and organizational growth of the company. He oversees major business functions including creator management, influencer marketing, production, operations, finance, and strategic partnerships. Tusharr works closely with leadership teams to drive innovation, scale business operations, strengthen client relationships, and expand OML‚Äôs presence across the creator economy and entertainment ecosystem.",NULL,,
+1352e8fe-163f-425e-92ad-5c5f450dbff3,11111111-1111-1111-1111-111111111111,Preranaa Khatri,Chief Business Officer (CBO),Management,preranaa@oml.in,"Preranaa Khatri is the Chief Business Officer (CBO) at OML and leads the company‚Äôs business growth, revenue strategy, and client partnerships. She oversees key commercial functions including brand solutions, influencer marketing partnerships, strategic business development, and large-scale client relationships. Preranaa works closely with leadership and cross-functional teams to drive revenue expansion, strengthen market positioning, and build long-term partnerships across the creator and entertainment ecosystem.",NULL,,Tusharr Kumar
+1577fcbd-cbee-4c91-986f-acaf9b475409,11111111-1111-1111-1111-111111111111,Sudhakar Jadhav,Chief Financial Officer (CFO),Management,sudhakar@oml.in,"Sudhakar Jadhav is the Chief Financial Officer (CFO) at OML and leads the company‚Äôs financial strategy, planning, compliance, and fiscal operations. He oversees budgeting, financial reporting, taxation, audits, cash flow management, and regulatory compliance across the organization. Sudhakar works closely with leadership teams to support business growth, improve financial efficiency, manage risk, and ensure sustainable financial operations across all business verticals.",NULL,,Tusharr Kumar
+f6d7ad59-dccb-4807-9856-8d3569121f9e,11111111-1111-1111-1111-111111111111,Shahanawaz Sayyed,Office Staff,Administration,NULL,NULL,NULL,,Sandesh Pawar
+79273f6d-f9ef-40db-bca0-73344da49afe,11111111-1111-1111-1111-111111111111,Zubair Shaikh,Office Staff,Administration,NULL,NULL,NULL,,Sandesh Pawar
+4253bd05-fb2a-4bf7-9f16-7af42e583eac,11111111-1111-1111-1111-111111111111,Ravindra Chandiwade,Office Staff,Administration,NULL,NULL,NULL,,Sandesh Pawar
+912cd06a-9555-405f-bd2e-6e8f50a75c20,11111111-1111-1111-1111-111111111111,Dilip Mohanty,Office Staff,Administration,dilip@oml.in,NULL,NULL,,Sandesh Pawar
+6e6d3ce0-da14-4a1b-a057-0e40b7f880ec,11111111-1111-1111-1111-111111111111,Vishal Payer,Office Staff,Administration,NULL,NULL,NULL,,Sandesh Pawar
+0ad52a3c-ebc4-4164-8226-fe8051af92e7,11111111-1111-1111-1111-111111111111,Hasan Shaikh,Office Staff,Administration,NULL,NULL,NULL,,Sandesh Pawar
+115fc259-1ade-4df1-a79f-a3895b6841ad,11111111-1111-1111-1111-111111111111,Tekendra Singh Bhul,Office Staff,Administration,NULL,NULL,NULL,,Sandesh Pawar
+2b7c312d-8081-45c5-8313-ccdced8cf2e0,11111111-1111-1111-1111-111111111111,Mayur Nakti,Office Staff,Administration,mayur@oml.in,NULL,NULL,,Sandesh Pawar
+efa3645c-80a6-458f-905c-07304db46078,11111111-1111-1111-1111-111111111111,Prakash Jadhav,Office Staff,Administration,NULL,NULL,NULL,,Sandesh Pawar
+c01db05f-55ae-407b-9854-0cb9a62d65da,11111111-1111-1111-1111-111111111111,Jiten Sakpal,Office Staff,Administration,NULL,NULL,NULL,,Sandesh Pawar
+7ef2694c-1a63-4372-a019-1cc65e0b1587,11111111-1111-1111-1111-111111111111,Radhika,Assistant Manager,Artist Management,radhika@oml.in,NULL,NULL,,Anirudh Voleti
+e66783aa-9cb4-4989-8cba-92dea5d2a42c,11111111-1111-1111-1111-111111111111,Rajeshwari Bhudeka,Assistant Manager,Artist Management,rajeshwari.bhudeka@oml.in,NULL,NULL,,Anirudh Voleti
+bdf13ea6-1237-40e0-9f08-65aad7fc4e5a,11111111-1111-1111-1111-111111111111,Dragana Andrade,Assistant Manager,Artist Management,dragana.andrade@oml.in,NULL,NULL,,Anirudh Voleti
+c6600e3e-b1cf-44b1-aeb9-c709f9a10a47,11111111-1111-1111-1111-111111111111,Kaustav Ghosh,Associate,Artist Management,kaustav@oml.in,NULL,NULL,,Anirudh Voleti
+437ad7ba-31eb-4713-9cc3-27d53ca0f288,11111111-1111-1111-1111-111111111111,Sachin Vaity,Associate,Artist Management,sachin.vaity@oml.in,NULL,NULL,,Anirudh Voleti
+118627b3-c158-4dbc-8911-062e84e62442,11111111-1111-1111-1111-111111111111,Prisha Deo,Associate,Artist Management,prisha.deo@oml.in,NULL,NULL,,Anirudh Voleti
+3e0e9c04-a03e-4653-9b10-5d16c9ddc811,11111111-1111-1111-1111-111111111111,Anushka Andharkar,Associate,Artist Management,anushka.andharkar@oml.in,NULL,NULL,,Anirudh Voleti
+285e1a92-91a0-497f-9f8c-c67cd4543d24,11111111-1111-1111-1111-111111111111,Rohan Gutka,Associate,Artist Management,rohan.gutka@oml.in,NULL,NULL,,Anirudh Voleti
+d47d8206-739a-47ca-8514-078978149e4a,11111111-1111-1111-1111-111111111111,Vieenaa Janaj,Associate Vice President,Artist Management,veena@oml.in,NULL,NULL,,Tusharr Kumar
+4dd90fa2-4a67-4890-988f-b7f343f0cdee,11111111-1111-1111-1111-111111111111,Ankita Yadav,Jr. Associate,Artist Management,ankita.yadav@oml.in,NULL,NULL,,Anirudh Voleti
+e9a4d687-d619-4f8e-a605-bb9fce1b3111,11111111-1111-1111-1111-111111111111,Rudrapratap Deshpande,Jr. Associate,Artist Management,rudra.deshpande@oml.in,NULL,NULL,,Anirudh Voleti
+b1c2591a-8d98-4b5e-8d5b-a02c4c233fc7,11111111-1111-1111-1111-111111111111,Devashri Nambiar,Jr. Associate,Artist Management,devashri.nambiar@oml.in,NULL,NULL,,Anirudh Voleti
+afe6ac1f-a3de-45ef-8ff5-ecd390c78760,11111111-1111-1111-1111-111111111111,Ananth Era,Jr. Associate,Artist Management,ananth.era@oml.in,NULL,NULL,,Anirudh Voleti
+9944b122-ade9-4810-948d-6f0ad84c2a64,11111111-1111-1111-1111-111111111111,Arohi Thakkar,Jr. Associate,Artist Management,arohi.thakkar@oml.in,NULL,NULL,,Anirudh Voleti
+367f71db-0507-42cb-94f4-3d2a0a187613,11111111-1111-1111-1111-111111111111,Prithwiraj Ghosh,Jr. Associate,Artist Management,prithwiraj.ghosh@oml.in,NULL,NULL,,Anirudh Voleti
+dd90476d-0046-4dd0-b2d5-e7f30b440dba,11111111-1111-1111-1111-111111111111,Ashton Luiz,Jr. Associate,Artist Management,ashton.luiz@oml.in,NULL,NULL,,Anirudh Voleti
+e0e5bc44-34f5-421e-8743-8a72747e9565,11111111-1111-1111-1111-111111111111,Janyaa Savant,Jr. Associate,Artist Management,janyaa.savant@oml.in,NULL,NULL,,Anirudh Voleti
+378f33b6-b976-46aa-969c-3fc38960e593,11111111-1111-1111-1111-111111111111,Jeev Singh,Manager,Artist Management,jeev.singh@oml.in,NULL,NULL,,Anirudh Voleti
+4c31331f-49d4-4104-a797-1cc6942cd89d,11111111-1111-1111-1111-111111111111,Shival Nagpaul,Sr. Associate,Artist Management,shival@oml.in,NULL,NULL,,Anirudh Voleti
+75f4ab20-5771-463c-9eeb-44ae4b82e713,11111111-1111-1111-1111-111111111111,Simarprit Chouhan,Sr. Associate,Artist Management,simarprit.chouhan@oml.in,NULL,NULL,,Anirudh Voleti
+98ddce6c-04d3-42ab-80c0-02a9bf20fe57,11111111-1111-1111-1111-111111111111,Muskaan Kargwal,Sr. Associate,Artist Management,muskaan.kargwal@oml.in,NULL,NULL,,Anirudh Voleti
+a4172994-05d7-4941-b0e7-1200b59cbb8f,11111111-1111-1111-1111-111111111111,Swetha Sekar,Sr. Associate,Artist Management,swethasekar@oml.in,NULL,NULL,,Anirudh Voleti
+5c7978c9-e93c-4156-8797-9a668798e7af,11111111-1111-1111-1111-111111111111,HImanshu Singh,Sr. Associate,Artist Management,himanshu.singh@oml.in,NULL,NULL,,Anirudh Voleti
+9f81f514-e2a6-4d38-85dc-0ece9e584a89,11111111-1111-1111-1111-111111111111,Jeremy Samson,Sr. Associate,Artist Management,jeremy.samson@oml.in,NULL,NULL,,Anirudh Voleti
+dc19ad1f-f0f0-4b4e-b677-6b006028cb6b,11111111-1111-1111-1111-111111111111,Heem Sachdev,Sr. Associate,Artist Management,heem.sachdev@oml.in,NULL,NULL,,Anirudh Voleti
+408449af-1aa3-42ed-9eb7-5b7a800c02ee,11111111-1111-1111-1111-111111111111,Drishti Sharma,Sr. Associate,Artist Management,drishti.sharma@oml.in,NULL,NULL,,Anirudh Voleti
+ea7a33b4-5718-412f-a5ec-fa669e3a2331,11111111-1111-1111-1111-111111111111,Smrita Roy,Sr. Manager,Artist Management,smrita@oml.in,NULL,NULL,,Anirudh Voleti
+28d94cb0-a6d4-4153-b89a-ecb745eacf44,11111111-1111-1111-1111-111111111111,Radhika Mehta,Sr. Manager,Artist Management,radhika.mehta@oml.in,NULL,NULL,,Anirudh Voleti
+fc276ca3-87da-4261-8f38-b18c0fdbfe02,11111111-1111-1111-1111-111111111111,Anirudh Voleti,Vice President,Artist Management,anirudh.voleti@oml.in,NULL,NULL,,Preranaa Khatri
+3366537b-e001-4ca9-902c-a2a67f15e674,11111111-1111-1111-1111-111111111111,Shreyaa Parekh,Agency Marketing Lead,Corporate,shreyaa.parekh@oml.in,NULL,NULL,,Devarshi Shah
+143f784f-0133-4ff6-a3ce-fca99d783db9,11111111-1111-1111-1111-111111111111,Hetal Rawal,Assistant Manager,Eighteen 62,hetal.rawal@oml.in,NULL,NULL,,Anisha Kotian
+8100c03c-aefc-443b-a4c1-f90013d67e28,11111111-1111-1111-1111-111111111111,Mansi Majithia,Assistant Manager,Eighteen 62,mansi.majithia@oml.in,NULL,NULL,,Anisha Kotian
+aca0e4a5-2f88-44ae-8536-65b3aceb694c,11111111-1111-1111-1111-111111111111,Naomi D'souza,Assistant Manager,Eighteen 62,naomi.dsouza@oml.in,NULL,NULL,,Anisha Kotian
+22f91aac-c29c-40b6-9607-c93f77bb4895,11111111-1111-1111-1111-111111111111,Anisha Kotian,Associate Vice President,Eighteen 62,anisha.kotian@oml.in,NULL,NULL,,Vibha Sharma
+1454beaa-982e-41ce-993d-159367cc6f99,11111111-1111-1111-1111-111111111111,Vibha Sharma,Business Head,Eighteen 62,vibha@oml.in,NULL,NULL,,Tusharr Kumar
+4a38ab52-387a-491f-85d0-24a888852223,11111111-1111-1111-1111-111111111111,Pratima Rao,Jr. Associate,Eighteen 62,pratima.rao@oml.in,NULL,NULL,,Anisha Kotian
+6f3e8974-d9a8-4612-bc4f-498cd435481c,11111111-1111-1111-1111-111111111111,Vidhi Jain,Jr. Associate,Eighteen 62,vidhi.jain@oml.in,NULL,NULL,,Anisha Kotian
+53cd7859-2a03-41bb-82de-e09781c4549b,11111111-1111-1111-1111-111111111111,Purvi Parikh,Manager,Eighteen 62,purvi.parikh@oml.in,NULL,NULL,,Anisha Kotian
+4ffa2064-4387-45d1-b8c1-92fc329ab4f5,11111111-1111-1111-1111-111111111111,Sakshi Bhardwaj,Sr. Associate,Eighteen 62,sakshi.bhardwaj@oml.in,NULL,NULL,,Anisha Kotian
+c7e723f7-9dca-4288-9a56-d865c3f47d72,11111111-1111-1111-1111-111111111111,Archana Iyer,Sr. Manager,Eighteen 62,archana.iyer@oml.in,NULL,NULL,,Anisha Kotian
+256b2c01-5089-4c90-9788-1b5e2bb17126,11111111-1111-1111-1111-111111111111,Shailendra Shenoy,Assistant Manager,Finance,shailendra@oml.in,NULL,NULL,,Santosh Raut
+a377a09b-e2b1-4234-bd4d-59a9cd0ad871,11111111-1111-1111-1111-111111111111,Girish Tiwari,Assistant Manager,Finance,girish.tiwari@oml.in,NULL,NULL,,Santosh Raut
+23fe8b1f-1c11-4b4d-853d-532282cdbc96,11111111-1111-1111-1111-111111111111,Poonam Gawade,Associate,Finance,poonam.gawde@oml.in,NULL,NULL,,Santosh Raut
+f256ee75-6214-4036-8ea8-923e7eedc332,11111111-1111-1111-1111-111111111111,Ishika Palande,Associate,Finance,ishika.palande@oml.in,NULL,NULL,,Santosh Raut
+a2e76ee6-8b9b-4fd3-aa34-8425f8e07ad5,11111111-1111-1111-1111-111111111111,Santosh Raut,Associate Vice President,Finance,santosh@oml.in,NULL,NULL,,Sudhakar Jadhav
+cc1ee483-6843-49d1-9e0e-9f53198752cb,11111111-1111-1111-1111-111111111111,Abhijeet Shirdhankar,Jr. Associate,Finance,abhijeet@oml.in,NULL,NULL,,Santosh Raut
+26298da2-bfc2-4090-b6e2-2de17c4a6bfe,11111111-1111-1111-1111-111111111111,Pinky Darji,Jr. Associate,Finance,pinky@oml.in,NULL,NULL,,Santosh Raut
+e3c24f35-d464-49aa-ac78-1a20518f1b86,11111111-1111-1111-1111-111111111111,Darshana Manjrekar,Sr. Associate,Finance,darshana@oml.in,NULL,NULL,,Santosh Raut
+5c7f1dd1-e27a-4b2f-bb43-27dbed334db0,11111111-1111-1111-1111-111111111111,Neha Devendra Bagwe,Sr. Manager,Finance,neha@oml.in,NULL,NULL,,Santosh Raut
+ce285a0f-236f-49df-8a4c-34eb840d5787,11111111-1111-1111-1111-111111111111,Anil Patil,Sr. Manager,Finance,anil@oml.in,NULL,NULL,,Santosh Raut
+97d24c32-5395-4a2d-bb7f-d18aa4bfe070,11111111-1111-1111-1111-111111111111,Devina Wahi,Assistant Manager,Hypothesis,devina@oml.in,NULL,NULL,,Ambarish Sengupta
+4df4189f-5b46-49c3-959b-3aed5bb4fff3,11111111-1111-1111-1111-111111111111,Masumi Chavan,Associate,Hypothesis,masumi.chavan@oml.in,NULL,NULL,,Ambarish Sengupta
+0aa45d72-2ad7-4a8f-8701-871455d865f1,11111111-1111-1111-1111-111111111111,Mehevish Merchant,Associate,Hypothesis,mehevish.merchant@oml.in,NULL,NULL,,Ambarish Sengupta
+bf9523c1-f765-424e-9522-1ad2fc5c94d6,11111111-1111-1111-1111-111111111111,Sanchia Eustace,Associate,Hypothesis,sanchia.eustace@oml.in,NULL,NULL,,Ambarish Sengupta
+d23d36a6-1238-43d3-83b2-bce05de85bf3,11111111-1111-1111-1111-111111111111,Joshhika Kaul,Associate,Hypothesis,joshhika.kaul@oml.in,NULL,NULL,,Ambarish Sengupta
+3943f6d5-ad5e-4475-ac3b-dea16b24be04,11111111-1111-1111-1111-111111111111,Seerat Bhalla,Associate,Hypothesis,seerat.bhalla@oml.in,NULL,NULL,,Ambarish Sengupta
+b6358e9e-f418-4b3a-99be-212b9d69808e,11111111-1111-1111-1111-111111111111,Nisha Shetty,Jr. Associate,Hypothesis,nisha.shetty@oml.in,NULL,NULL,,Ambarish Sengupta
+e4d060fc-10b9-4dfb-8396-e9104058e69e,11111111-1111-1111-1111-111111111111,Krish Pandya,Jr. Associate,Hypothesis,krish.pandya@oml.in,NULL,NULL,,Ambarish Sengupta
+8cceb350-5200-427e-87a1-b8d7f391b59e,11111111-1111-1111-1111-111111111111,Pashmi Sheth,Jr. Associate,Hypothesis,pashmi.sheth@oml.in,NULL,NULL,,Ambarish Sengupta
+b4f02785-1109-4c68-97b1-698ec17615e0,11111111-1111-1111-1111-111111111111,Sanskriti Sharma,Jr. Associate,Hypothesis,sanskriti.sharma@oml.in,NULL,NULL,,Ambarish Sengupta
+4c8141be-126b-49a0-8ddd-7c0440099694,11111111-1111-1111-1111-111111111111,Krishpreet Kaur Lal,Jr. Associate,Hypothesis,krishpreet.lal@oml.in,NULL,NULL,,Ambarish Sengupta
+4a8ae51c-263c-4f79-8704-9f729c568f41,11111111-1111-1111-1111-111111111111,Ayaan Hemani,Jr. Associate,Hypothesis,ayaan.hemani@oml.in,NULL,NULL,,Ambarish Sengupta
+7780b34c-efc4-45de-b2b2-b5c01faf6b59,11111111-1111-1111-1111-111111111111,Chirag Chaudhary,Jr. Associate,Hypothesis,chirag.chaudhary@oml.in,NULL,NULL,,Ambarish Sengupta
+5c9972f7-de12-42c0-b08e-e740dde99f00,11111111-1111-1111-1111-111111111111,Aasna Bhansali,Manager,Hypothesis,aasna@oml.in,NULL,NULL,,Ambarish Sengupta
+f3a29335-e859-48eb-9578-b055bb6c4177,11111111-1111-1111-1111-111111111111,Arshi Khan,Sr. Associate,Hypothesis,arshi@oml.in,NULL,NULL,,Ambarish Sengupta
+d89156d4-4188-4fa6-bdce-a341097f3d70,11111111-1111-1111-1111-111111111111,Mehul Samant,Sr. Associate,Hypothesis,mehul.samant@oml.in,NULL,NULL,,Ambarish Sengupta
+d19bd7fa-237f-4c31-af02-082e9805d7a8,11111111-1111-1111-1111-111111111111,Hemlata Moolrajani,Sr. Manager,Hypothesis,hemlata@oml.in,NULL,NULL,,Ambarish Sengupta
+af30674a-6bd9-4947-92b3-4f890984d87f,11111111-1111-1111-1111-111111111111,Aneri Thakkar,Sr. Manager,Hypothesis,aneri@oml.in,NULL,NULL,,Ambarish Sengupta
+fca4e162-9ff6-4988-9f0e-3c4dfbcffb92,11111111-1111-1111-1111-111111111111,Vaishnavi Rai,Sr. Manager,Hypothesis,vaishnavi.rai@oml.in,NULL,NULL,,Ambarish Sengupta
+e1fd9e3a-18d0-458e-9a22-dafb65a65ccb,11111111-1111-1111-1111-111111111111,Ambarish Sengupta,Vice President,Hypothesis,ambarish.sengupta@oml.in,NULL,NULL,,Devarshi Shah
+6b525cc0-fc7d-4083-8fd3-f9ef88c2dec9,11111111-1111-1111-1111-111111111111,Vrushti Sanghavi,Sr. Associate,Legal,vrushti.sanghavi@oml.in,NULL,NULL,,Preranaa Khatri
+b5a74863-af81-4a14-be74-fa2bbf55688b,11111111-1111-1111-1111-111111111111,Devarshi Shah,Chief Growth Officer (CGO),Management,devarshi@oml.in,NULL,NULL,,Tusharr Kumar
+19129fad-9eb9-4e51-ba61-a3e3e3893d16,11111111-1111-1111-1111-111111111111,Akshay Nagarkar,Assistant Manager,Media & Analytics,akshay@oml.in,NULL,NULL,,Ruchira More
+2ca5ed0b-b727-47f9-94c0-b026b016edc6,11111111-1111-1111-1111-111111111111,Tushar Shenoy,Assistant Manager,Media & Analytics,tushar.shenoy@oml.in,NULL,NULL,,Bilal Ansari
+f5f8c631-2704-4db4-a1f6-0044f9255246,11111111-1111-1111-1111-111111111111,Sakshi Jain,Assistant Manager,Media & Analytics,sakshi.jain@oml.in,NULL,NULL,,Bilal Ansari
+913189ce-86b8-48fd-8b74-c7e6f89d8b3b,11111111-1111-1111-1111-111111111111,Anshuka Anand,Associate,Media & Analytics,anshuka@oml.in,NULL,NULL,,Ruchira More
+dd39d718-5f5c-4c70-9fdd-79bf99611a88,11111111-1111-1111-1111-111111111111,Samprati Parekh,Associate,Media & Analytics,samprati.parekh@oml.in,NULL,NULL,,Ruchira More
+97322b01-498b-4cdf-9826-836e168ce1cb,11111111-1111-1111-1111-111111111111,Ajit Sreerangaraj Prahlad,Associate,Media & Analytics,ajit.prahlad@oml.in,NULL,NULL,,Bilal Ansari
+de031068-f75c-45ce-bb45-b90609128089,11111111-1111-1111-1111-111111111111,Siddharth Ghuge,Jr. Associate,Media & Analytics,siddharth.ghuge@oml.in,NULL,NULL,,Ruchira More
+6d7c4d4a-d544-4e3f-a0e6-3b901262235c,11111111-1111-1111-1111-111111111111,Atharv Mahajan,Jr. Associate,Media & Analytics,atharv.mahajan@oml.in,NULL,NULL,,Ruchira More
+208a783d-c843-4aa1-a8a8-f8ce32746519,11111111-1111-1111-1111-111111111111,Tanya Srivastava,Manager,Media & Analytics,tanya@oml.in,NULL,NULL,,Ruchira More
+b0de169b-68fc-4a1a-9194-243cde90a945,11111111-1111-1111-1111-111111111111,Prasad Mulik,Manager,Media & Analytics,prasad.mulik@oml.in,NULL,NULL,,Bilal Ansari
+93ffbe80-e4f4-485a-a0c6-d01fd9d768d6,11111111-1111-1111-1111-111111111111,Anokhi Choksey,Sr. Associate,Media & Analytics,anokhi.choksey@oml.in,NULL,NULL,,Bilal Ansari
+fe4992dd-1124-4b75-8b60-0244590dbdd4,11111111-1111-1111-1111-111111111111,Ishmeet Kaur Mutti,Sr. Associate,Media & Analytics,ishmeet@oml.in,NULL,NULL,,Ruchira More
+4088cf0d-2dd8-4f37-94ee-7bc4e71c6eb1,11111111-1111-1111-1111-111111111111,Akshat Bhatia,Sr. Associate,Media & Analytics,akshat@oml.in,NULL,NULL,,Ruchira More
+9f634cbf-4f1e-496d-a9a3-f9841ede58b0,11111111-1111-1111-1111-111111111111,Ruchira More,Vice President,Media & Analytics,ruchira@oml.in,NULL,NULL,,Devarshi Shah
+17ade1ca-4d44-4c0a-b9da-3c9879309eb1,11111111-1111-1111-1111-111111111111,Bilal Ansari,Vice President,Media & Analytics,bilal.ansari@oml.in,NULL,NULL,,Devarshi Shah
+1c4f2359-b00d-4593-9005-5e3730a67ac7,11111111-1111-1111-1111-111111111111,Anshu Choudhary,Assistant Manager,Move Over,anshu@oml.in,NULL,NULL,Client Servicing,Roycin D‚ÄôSouza
+e403da49-6689-4452-aa5d-c09a5301b17f,11111111-1111-1111-1111-111111111111,Aditya Menon,Assistant Manager,Move Over,aditya.menon@oml.in,NULL,NULL,Creative,Manav Parekh
+582e6aa8-ea59-45a7-a8cf-f5613a5e5c69,11111111-1111-1111-1111-111111111111,Ananya Pandey,Assistant Manager,Move Over,ananya.pandey@oml.in,NULL,NULL,Creative,Manav Parekh
+e5440f2d-1874-4bdc-bf74-ed757d804d28,11111111-1111-1111-1111-111111111111,Saundarya Srinivasan,Assistant Manager,Move Over,saundarya.srinivasan@oml.in,NULL,NULL,Creative,Manav Parekh
+26c55bad-4625-4b26-af0e-20989b9eb6ad,11111111-1111-1111-1111-111111111111,Progyaa Dutta,Assistant Manager,Move Over,progyaa.dutta@oml.in,NULL,NULL,Creative,Manav Parekh
+48cf8817-df71-4f38-a6a8-48acdde8e807,11111111-1111-1111-1111-111111111111,Aishwarya Patankar,Assistant Manager,Move Over,aishwarya.patankar@oml.in,NULL,NULL,Design,Soumen Nath
+ec1c9a47-9674-48b8-9e8d-12226d88a3ae,11111111-1111-1111-1111-111111111111,Tanya Vaghela,Assistant Manager,Move Over,tanya.vaghela@oml.in,NULL,NULL,Design,Soumen Nath
+8a9996ba-3671-4933-9b26-7d50defabd0e,11111111-1111-1111-1111-111111111111,Rajaye Narkar,Assistant Manager,Move Over,rajaye.narkar@oml.in,NULL,NULL,Creative,Manav Parekh
+6065bf69-d8cc-4bb3-85eb-8b1ed30f5272,11111111-1111-1111-1111-111111111111,Vibhati Narang,Associate,Move Over,vibhati.narang@oml.in,NULL,NULL,Creative,Manav Parekh
+c5508ced-6c30-4663-8350-2d550b940cde,11111111-1111-1111-1111-111111111111,Shivani Sachdeva,Associate,Move Over,shivani.sachdeva@oml.in,NULL,NULL,Creative,Manav Parekh
+d4a86c41-8382-44d2-bf6e-4e63ed7165e0,11111111-1111-1111-1111-111111111111,Ketki Dhuri,Associate,Move Over,ketki.dhuri@oml.in,NULL,NULL,Creative,Manav Parekh
+0a202935-e573-4508-ac8b-71e9eecb99c5,11111111-1111-1111-1111-111111111111,Aiswarya Parameshwar,Associate,Move Over,aiswarya.parameshwar@oml.in,NULL,NULL,Client Servicing,Roycin D‚ÄôSouza
+79ba6dbc-2208-4ea4-b4d0-505ab53009b1,11111111-1111-1111-1111-111111111111,Natasha Kharadi,Associate Vice President,Move Over,natasha.k@oml.in,NULL,NULL,Client Servicing,Roycin D‚ÄôSouza
+a4520a4e-d319-45ba-b635-056a030981d4,11111111-1111-1111-1111-111111111111,Heemuhn Major,Associate Vice President,Move Over,heemuhn.major@oml.in,NULL,NULL,Creative,Manav Parekh
+009e4721-e83b-4cf1-be79-a6e894b46aed,11111111-1111-1111-1111-111111111111,Gibson Sequeira,Associate Vice President,Move Over,gibson.sequeira@oml.in,NULL,NULL,Client Servicing,Roycin D‚ÄôSouza
+57a227bc-9b75-4a4d-8566-1c9beed72b71,11111111-1111-1111-1111-111111111111,Zeel Desai,Jr. Associate,Move Over,zeel.desai@oml.in,NULL,NULL,Client Servicing,Roycin D‚ÄôSouza
+79212ed5-7325-4b1e-9169-70339bfe48a6,11111111-1111-1111-1111-111111111111,Navvya Bhutani,Jr. Associate,Move Over,navvya.bhutani@oml.in,NULL,NULL,Client Servicing,Roycin D‚ÄôSouza
+68dbe2da-df19-4d03-b63d-3446d2b185ef,11111111-1111-1111-1111-111111111111,Krishi Shukla,Jr. Associate,Move Over,krishi.shukla@oml.in,NULL,NULL,Client Servicing,Roycin D‚ÄôSouza
+facf39fd-2692-4193-8caa-c385148e2812,11111111-1111-1111-1111-111111111111,Zeena Khambatta,Jr. Associate,Move Over,zeena.khambatta@oml.in,NULL,NULL,Creative,Manav Parekh
+b5a61aae-739e-47c8-85a4-eefdcb36cd3b,11111111-1111-1111-1111-111111111111,Asavari Waichal,Manager,Revenue,asavari@oml.in,NULL,NULL,,Pankaj Malani
+9357c7e0-9bab-4a39-ac5f-512f81c7b85b,11111111-1111-1111-1111-111111111111,Sakshi Chugh,Manager,Move Over,sakshi.chugh@oml.in,NULL,NULL,Client Servicing,Roycin D‚ÄôSouza
+be16ccf7-1bf3-4748-b581-c8596472eb69,11111111-1111-1111-1111-111111111111,Ayushi Singh,Sr. Associate,Move Over,ayushi.singh@oml.in,NULL,NULL,Creative,Manav Parekh
+bb980022-32ea-4b1b-8fcb-099843849175,11111111-1111-1111-1111-111111111111,Loma Sisodia,Sr. Associate,Move Over,loma.sisodia@oml.in,NULL,NULL,Client Servicing,Roycin D‚ÄôSouza
+48cb3a8f-da61-4a01-8d08-bde703062e27,11111111-1111-1111-1111-111111111111,Deepesh Vaishnav,Sr. Associate,Move Over,deepesh.vaishnav@oml.in,NULL,NULL,Design,Soumen Nath
+26434de8-1210-4162-af4f-e32dba7450c0,11111111-1111-1111-1111-111111111111,Asiya Shaikh,Sr. Associate,Move Over,asiya.shaikh@oml.in,NULL,NULL,Design,Soumen Nath
+0acc6052-8b86-4187-8594-ad1e63bf3f63,11111111-1111-1111-1111-111111111111,Zainab Arif,Sr. Associate,Move Over,zainab.arif@oml.in,NULL,NULL,Client Servicing,Roycin D‚ÄôSouza
+1018939b-38f1-43be-a42e-33b89ed1ead7,11111111-1111-1111-1111-111111111111,Roshni Shah,Sr. Associate,Move Over,roshni.shah@oml.in,NULL,NULL,Client Servicing,Roycin D‚ÄôSouza
+aab96226-3a24-4f63-b3b0-cde924377ace,11111111-1111-1111-1111-111111111111,Akhya Agarwal,Sr. Associate,Move Over,akhya.agarwal@oml.in,NULL,NULL,Creative,Manav Parekh
+f2267766-a1bc-4cd3-b300-2b0738132daf,11111111-1111-1111-1111-111111111111,Warren Luis,Sr. Manager,Move Over,warren.luis@oml.in,NULL,NULL,Creative,Manav Parekh
+7dab7d24-cfdc-4b77-9ddf-65abda3bfc08,11111111-1111-1111-1111-111111111111,Ashwin Nair,Sr. Manager,Move Over,ashwin.nair@oml.in,NULL,NULL,Creative,Manav Parekh
+ee513e90-95f9-45da-85c1-00c428d69f85,11111111-1111-1111-1111-111111111111,Viplaksh Mehta,Sr. Manager,Move Over,viplaksh.mehta@oml.in,NULL,NULL,Creative,Manav Parekh
+48484920-4eab-41f3-9999-d6eb19ca3f55,11111111-1111-1111-1111-111111111111,Ashwin Vaidyanathan,Sr. Manager,Move Over,ashwin.vaidyanathan@oml.in,NULL,NULL,Creative,Manav Parekh
+85ca95e8-9b46-4876-be5a-000221fc2085,11111111-1111-1111-1111-111111111111,Nikita Malik,Sr. Manager,Move Over,nikita.malik@oml.in,NULL,NULL,Creative,Manav Parekh
+ba0d5928-f609-45cc-9fa8-3fbb696b977b,11111111-1111-1111-1111-111111111111,Roycin D‚ÄôSouza,Sr. Vice President,Move Over,roycin@oml.in,NULL,NULL,Client Servicing,Devarshi Shah
+513b96bd-8311-42da-a714-94bc9bec5ecd,11111111-1111-1111-1111-111111111111,Swapna Kammaran Nair,Vice President,Move Over,swapna.nair@oml.in,NULL,NULL,Client Servicing,Devarshi Shah
+24094a49-b88c-4206-89fb-29468c4b3fac,11111111-1111-1111-1111-111111111111,Rahool Talukdar,Vice President,Move Over,rahool.talukdar@oml.in,NULL,NULL,Design,Soumen Nath
+e8ba031a-dfe3-4649-8883-062c9d3d6a76,11111111-1111-1111-1111-111111111111,Soumen Nath,Vice President,Move Over,soumen.nath@oml.in,NULL,NULL,Design,Manav Parekh
+eff42f91-5ee7-4a76-9841-41f31341f614,11111111-1111-1111-1111-111111111111,Sagarika Akut,Associate Vice President,OML Studios,sagarika.akut@oml.in,NULL,NULL,,Devarshi Shah
+845c6bdd-630c-4c21-a893-501bc975ef63,11111111-1111-1111-1111-111111111111,Anshuman Bhadauria,Sr. Manager,OML Studios,anshuman@oml.in,NULL,NULL,,Sagarika Akut
+e35bdf62-d907-426c-96ec-a4766ad6f77e,11111111-1111-1111-1111-111111111111,Sandesh Pawar,Assistant Manager,People Team,sandesh@oml.in,NULL,NULL,,Ashwadhy Chakamatil
+854555bb-436b-4678-9947-eabb8e0881e5,11111111-1111-1111-1111-111111111111,Sachin Kshirsagar,Assistant Manager,People Team,sachin@oml.in,NULL,NULL,,Ashwadhy Chakamatil
+82849788-e716-4a78-bfe0-9bb21d19c6fa,11111111-1111-1111-1111-111111111111,Niharika Jain,Assistant Manager,People Team,niharika.jain@oml.in,NULL,NULL,,Ashwadhy Chakamatil
+36c1ab6b-2a38-4299-9f35-558ade64ca22,11111111-1111-1111-1111-111111111111,Nerrisa Miranda,Associate,People Team,nerrisa.miranda@oml.in,NULL,NULL,,Ashwadhy Chakamatil
+c3e3d134-cd02-43ae-b1e8-27b004e4e861,11111111-1111-1111-1111-111111111111,Sharvari Durgule,Jr. Associate,People Team,sharvari.durgule@oml.in,NULL,NULL,,Ashwadhy Chakamatil
+497c0ebe-8e69-48aa-8e17-188f987ce21c,11111111-1111-1111-1111-111111111111,Urvee Save,Jr. Associate,People Team,urvee.save@oml.in,NULL,NULL,,Ashwadhy Chakamatil
+b061ab7c-db66-4f72-a7e8-35f3f8ffdf31,11111111-1111-1111-1111-111111111111,Pranali Ritansh Shah,Manager,People Team,pranali@oml.in,NULL,NULL,,Ashwadhy Chakamatil
+af9d95b2-d436-498e-b4e8-903eb864c108,11111111-1111-1111-1111-111111111111,Rahul Argekar,Sr. Associate,People Team,rahul.argekar@oml.in,NULL,NULL,,Ashwadhy Chakamatil
+13b9b32b-850a-4cc1-9f50-de377d34ca6a,11111111-1111-1111-1111-111111111111,Bijal Kakkad,Sr. Associate,People Team,bijal.kakkad@oml.in,NULL,NULL,,Ashwadhy Chakamatil
+e5c34636-522e-4322-9168-ad3b5b4c23f8,11111111-1111-1111-1111-111111111111,Veronica Vaz,Sr. Associate,People Team,veronica.vaz@oml.in,NULL,NULL,,Ashwadhy Chakamatil
+16b6e5a6-666a-4b0a-ae98-94936bd694e2,11111111-1111-1111-1111-111111111111,Ashwadhy Chakamatil,Sr. Manager,People Team,ashwadhy.chakamatil@oml.in,NULL,NULL,,Preranaa Khatri
+cd832183-3ff6-41c3-88bd-3697894586b4,11111111-1111-1111-1111-111111111111,Nishtha Keswani,Assistant Manager,Revenue,nishtha.keswani@oml.in,NULL,NULL,,Pankaj Malani
+1b7bb497-2389-4a44-8fad-144e3c325de0,11111111-1111-1111-1111-111111111111,Yashvi Shah,Associate,Revenue,yashvi.shah@oml.in,NULL,NULL,,Pankaj Malani
+2df3919c-20ee-41e1-9724-1cc5fe58140c,11111111-1111-1111-1111-111111111111,Stuti Duggal,Associate Vice President,Revenue,stuti.duggal@oml.in,NULL,NULL,,Pankaj Malani
+a62908da-0612-4ae7-a942-2697dd2d5554,11111111-1111-1111-1111-111111111111,Pankaj Malani,Exe. Vice President,Revenue,pankaj.malani@oml.in,NULL,NULL,,Tusharr Kumar
+8296c157-2401-46fa-9829-b3e01da6f8d8,11111111-1111-1111-1111-111111111111,Devangi Satam,Jr. Associate,Revenue,devangi.satam@oml.in,NULL,NULL,,Pankaj Malani
+2f6eecb7-cc8f-4d54-9c0d-c821e75ecc12,11111111-1111-1111-1111-111111111111,Mishka Sawant,Jr. Associate,Revenue,mishka.sawant@oml.in,NULL,NULL,,Pankaj Malani
+5c0224ad-0c36-4ef0-b891-d5dd2134528c,11111111-1111-1111-1111-111111111111,Zeenat Rajkotwala,Manager,Revenue,zeenat@oml.in,NULL,NULL,,Pankaj Malani
+df186f6e-450d-458b-bf79-db1cd719bda7,11111111-1111-1111-1111-111111111111,Medha Sharma,Manager,Revenue,medha.sharma@oml.in,NULL,NULL,,Pankaj Malani
+d0bfddba-b1d3-4159-9dfa-dbfe40059d10,11111111-1111-1111-1111-111111111111,Shivankur Sharma,Manager,Revenue,shivankur.sharma@oml.in,NULL,NULL,,Pankaj Malani
+f483ae7e-f711-4736-bdfc-d4e5de601cb8,11111111-1111-1111-1111-111111111111,Rhea Pillai,Sr. Associate,Revenue,rhea.pillai@oml.in,NULL,NULL,,Pankaj Malani
+598e77a7-0a29-4b6b-9b99-3cbb9c8d0ef3,11111111-1111-1111-1111-111111111111,Srishti Sikaria Agarwal,Sr. Manager,Revenue,srishti.sikaria@oml.in,NULL,NULL,,Pankaj Malani
+21f889a8-ed10-43ec-9b42-0f6150e7c220,11111111-1111-1111-1111-111111111111,Kanak Jaitwani,Sr. Manager,Revenue,kanak.jaitwani@oml.in,NULL,NULL,,Pankaj Malani

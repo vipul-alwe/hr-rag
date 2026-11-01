@@ -1,0 +1,316 @@
+/* Data Manager Container */
+.data-manager-wrapper {
+  width: 100%;
+  min-height: 100vh;
+  background: #f6f7fb;
+  padding: 24px;
+  font-family: inherit;
+}
+
+.data-manager {
+  max-width: 1100px;
+  margin: 0 auto;
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 6px 30px rgba(16, 24, 40, 0.06);
+  padding: 28px;
+}
+
+.data-manager h2 {
+  margin: 0 0 24px 0;
+  font-size: 1.5rem;
+  color: #111827;
+  font-weight: 700;
+}
+
+/* Controls Row */
+.data-manager-controls {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.data-manager-controls label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #374151;
+  font-weight: 500;
+}
+
+.data-manager-controls select {
+  padding: 8px 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  background: #ffffff;
+  font-size: 0.95rem;
+  color: #111827;
+  cursor: pointer;
+}
+
+.data-manager-controls select:hover {
+  border-color: #9ca3af;
+}
+
+.data-manager-controls select:focus {
+  outline: none;
+  border-color: #0b5fff;
+  box-shadow: 0 0 0 3px rgba(11, 95, 255, 0.1);
+}
+
+.data-manager-actions {
+  margin-left: auto;
+  display: flex;
+  gap: 8px;
+}
+
+.data-manager-back-button {
+  padding: 8px 12px;
+  border-radius: 6px;
+  background: #f3f4f6;
+  color: #0b5fff;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: background 0.2s;
+  display: inline-block;
+}
+
+.data-manager-back-button:hover {
+  background: #e5e7eb;
+  color: #0b5fff;
+}
+
+/* Section Styling */
+.data-manager-section {
+  margin-bottom: 24px;
+  padding: 16px;
+  background: #f9fafb;
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+}
+
+.data-manager-section h3 {
+  margin: 0 0 12px 0;
+  font-size: 1rem;
+  color: #111827;
+  font-weight: 600;
+}
+
+/* Text Input Area */
+.data-manager-textarea {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 0.95rem;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  background: #ffffff;
+  font-family: inherit;
+  resize: vertical;
+  color: #111827;
+}
+
+.data-manager-textarea:focus {
+  outline: none;
+  border-color: #0b5fff;
+  box-shadow: 0 0 0 3px rgba(11, 95, 255, 0.1);
+}
+
+.data-manager-textarea:disabled {
+  background: #f3f4f6;
+  cursor: not-allowed;
+}
+
+/* File Input */
+.data-manager-file-input {
+  display: block;
+  padding: 8px 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  background: #ffffff;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+.data-manager-file-input:hover {
+  border-color: #9ca3af;
+}
+
+/* Buttons */
+.data-manager-button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 6px;
+  background: #0b5fff;
+  color: #ffffff;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.data-manager-button:hover:not([disabled]) {
+  opacity: 0.9;
+}
+
+.data-manager-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.data-manager-button.secondary {
+  background: #f3f4f6;
+  color: #111827;
+}
+
+.data-manager-button.secondary:hover:not([disabled]) {
+  background: #e5e7eb;
+}
+
+/* Tabs */
+.data-manager-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.data-manager-tab {
+  padding: 6px 12px;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  background: transparent;
+  color: #374151;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.data-manager-tab:hover {
+  background: #f3f4f6;
+}
+
+.data-manager-tab.active {
+  background: #0b5fff10;
+  border-color: #0b5fff33;
+  color: #0b5fff;
+  font-weight: 600;
+}
+
+/* Table */
+.data-manager-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 16px;
+}
+
+.data-manager-table thead {
+  background: #f9fafb;
+  border-bottom: 1px solid #d1d5db;
+}
+
+.data-manager-table th {
+  text-align: left;
+  padding: 12px 8px;
+  color: #475569;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.data-manager-table td {
+  text-align: left;
+  padding: 12px 8px;
+  border-bottom: 1px solid #e5e7eb;
+  color: #374151;
+  font-size: 0.9rem;
+  vertical-align: middle;
+}
+
+.data-manager-table tbody tr:hover {
+  background: #fbfcff;
+}
+
+.data-manager-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* Checkbox */
+.data-manager-checkbox {
+  cursor: pointer;
+  accent-color: #0b5fff;
+}
+
+/* Document ID */
+.data-manager-doc-id {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Courier New", monospace;
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
+/* Document Content Cell */
+.data-manager-doc-content {
+  max-width: 420px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: #374151;
+}
+
+/* Empty State */
+.data-manager-empty {
+  padding: 24px;
+  text-align: center;
+  color: #6b7280;
+  font-size: 0.95rem;
+}
+
+/* Action Buttons in Table */
+.data-manager-row-actions {
+  display: flex;
+  gap: 8px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .data-manager {
+    padding: 16px;
+  }
+
+  .data-manager-controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .data-manager-controls label {
+    width: 100%;
+  }
+
+  .data-manager-controls select {
+    width: 100%;
+  }
+
+  .data-manager-actions {
+    margin-left: 0;
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .data-manager-actions button {
+    width: 100%;
+  }
+
+  .data-manager-table {
+    font-size: 0.85rem;
+  }
+
+  .data-manager-table th,
+  .data-manager-table td {
+    padding: 8px 4px;
+  }
+
+  .data-manager-doc-content {
+    max-width: 200px;
+  }
+}
